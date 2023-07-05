@@ -16,7 +16,7 @@ This tool is valuable for scenarios where you need to compare two Excel files co
 * Flexible customization options for comparison rules and output styles.
 * Command-line interface (CLI) and graphical user interface (GUI) versions available.
 
-##CLI vs UI:
+## CLI vs UI:
 The repository offers both a CLI and a GUI version to cater to different user preferences and workflows. The CLI provides a command-line interface for streamlined automation and integration into existing Python scripts. The GUI offers a user-friendly graphical interface for interactive usage and visual representation of the differences.
 
 ## Installation:
